@@ -17,7 +17,7 @@ window.APP_CONFIG = {
     // README.md — pensado pra uso com QR code / tag NFC como "link secreto").
     // Troque para false pra mostrar a lista normal de álbuns pra qualquer
     // visitante.
-    hideLibraryByDefault: false,
+    hideLibraryByDefault: true,
 
     // Cor de destaque (botões, faixa em reprodução, barra de progresso).
     accentColor: "#d98f4e",
