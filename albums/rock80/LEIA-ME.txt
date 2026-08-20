@@ -1,0 +1,14 @@
+PASTA: Álbum 1
+=============================
+Coloque aqui os arquivos de áudio (.mp3) do primeiro álbum, e, se quiser,
+uma imagem de capa (.jpg ou .png).
+
+Sugestão de nome de arquivo (facilita organizar, mas quem manda na ordem
+de reprodução é a ordem da lista "tracks" em js/albums.js, não o nome do
+arquivo):
+  01-nome-da-faixa.mp3
+  02-nome-da-faixa.mp3
+  capa.jpg
+
+Depois de copiar os arquivos aqui, cadastre o álbum em js/albums.js.
+Detalhes completos: veja o README.md na raiz do projeto.
