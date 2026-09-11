@@ -50,6 +50,15 @@ window.ALBUM_LIBRARY = [
       { title: "Bon Jovi - Livin' on a Prayer", file: "albums/rock80/02-faixa2.mp3" },
       { title: "Guns N' Roses - Sweet Child O' Mine", file: "albums/rock80/03-faixa3.mp3" },
             ],
+
+    id: "CRB",
+    title: "CRB",
+    artist: "CRB",
+    cover: "albums/CRB/capa.png",
+    tracks: [
+      { title: "Hino do CRB", file: "albums/CRB/Hino do CRB.mp3" },
+      { title: "Galo, Eu Te Amo", file: "albums/CRB/Galo Eu Te Amo - Almir Rouche.mp3" },
+            ],
   },
 
 ];
