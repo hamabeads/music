@@ -54,7 +54,7 @@ window.ALBUM_LIBRARY = [
     id: "CRB",
     title: "CRB",
     artist: "O Maior de Alagoas",
-    cover: "albums/CRB/capa.png",
+    cover: "albums/CRB/capa.jpg",
     tracks: [
       { title: "Hino do CRB", file: "albums/CRB/Hino do CRB.mp3" },
       { title: "Galo, Eu Te Amo", file: "albums/CRB/Galo Eu Te Amo - Almir Rouche.mp3" },
