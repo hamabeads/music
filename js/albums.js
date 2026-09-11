@@ -53,7 +53,7 @@ window.ALBUM_LIBRARY = [
 
     id: "CRB",
     title: "CRB",
-    artist: "CRB",
+    artist: "O Maior de Alagoas",
     cover: "albums/CRB/capa.png",
     tracks: [
       { title: "Hino do CRB", file: "albums/CRB/Hino do CRB.mp3" },
