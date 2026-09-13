@@ -50,7 +50,8 @@ window.ALBUM_LIBRARY = [
       { title: "Bon Jovi - Livin' on a Prayer", file: "albums/rock80/02-faixa2.mp3" },
       { title: "Guns N' Roses - Sweet Child O' Mine", file: "albums/rock80/03-faixa3.mp3" },
             ],
-
+  }
+  {
     id: "CRB",
     title: "CRB",
     artist: "O Maior de Alagoas",
